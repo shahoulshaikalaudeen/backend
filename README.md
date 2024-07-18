@@ -1,1 +1,2 @@
-build commande docker : docker-compose up --build  
+## Docker Command build
+ -  docker-compose up --build  
